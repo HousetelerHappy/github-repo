@@ -5,4 +5,9 @@ hey we are in the first branch and i am goint o to create a conflict in the bran
 in the fifth branch pushed in the github
 
 git checkout -b "branch name"
-git checkout -b "branch name"
+git checkout -b "branch name            "
+
+##Local Development
+
+
+1.Open index.html in your browser
